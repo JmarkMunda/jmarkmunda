@@ -13,7 +13,7 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 - ⌚ I’m currently spending my time on **Learning**
 
-- 📘 I’m currently learning **ReactJS.**
+- 📘 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
