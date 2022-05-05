@@ -11,26 +11,26 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 - 👨‍🎓 I'm 4th year **BSIT student**
 
-- ⌚ I’m currently spending my time on **Learning**
+- ⌚ I’m currently spending my time on **Learning** and **thinking about my future**
 
 - 📘 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for **Job Opportunities**
 
 - 👨‍💻 All of my projects are available at my **[Github Repositories](https://github.com/JmarkMunda?tab=repositories)**
 
 - 📫 How to reach me **jaymarkmunda26@gmail.com**
 
-- ⚡ My hobbies are **play games** and **watch anime/movies**.
 
-## 🚀 Languages and Tools:
+## 🚀 Languages, Frameworks and Tools:
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
