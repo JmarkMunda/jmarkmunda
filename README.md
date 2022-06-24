@@ -15,6 +15,8 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 - 📘 I’m currently learning **MERN Stack**
 
+- 🥇 Specialized with **HTML**, **CSS** and **React JS**
+
 - 👯 I’m looking for **Job Opportunities**
 
 - 👨‍💻 All of my projects are available at my **[Github Repositories](https://github.com/JmarkMunda?tab=repositories)**
