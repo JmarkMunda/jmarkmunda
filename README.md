@@ -9,7 +9,7 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 ## 🙋‍♂️ About Me 
 
-- 👨‍🎓 I'm 4th year **BSIT student**
+- 👨‍🎓 I'm Graduating 4th year **BSIT student**
 
 - ⌚ I’m currently spending my time on **Learning** and **thinking about my future**
 
