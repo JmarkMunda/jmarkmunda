@@ -52,9 +52,7 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
     <a href="https://github.com/JmarkMunda/github-readme-stats">
          <img align="center" alt="Jmark Munda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JmarkMunda&show_icons=true&count_private=true&theme=ayu-mirage&hide_border=true&bg_color=062F52&icon_color=00FCED" />
     </a>
-  </p>
-  <p align="center">
-   <a href="https://github.com/JmarkMunda/github-readme-stats">
+     <a href="https://github.com/JmarkMunda/github-readme-stats">
         <img align="center" alt="JmarkMunda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JmarkMunda&langs_count=8&count_private=true&layout=compact&theme=ayu-mirage&hide_border=true&bg_color=062F52" />
    </a>
   </p>
