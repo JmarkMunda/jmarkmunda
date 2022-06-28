@@ -7,7 +7,8 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 <h3 align="center">I'm a self taught front-end developer passionate about creating and designing websites.</h3>
 
 <br />
-### About Me 
+
+### ABOUT ME
 
 - 👨‍🎓 I'm Graduating 4th year **BSIT student**
 
@@ -23,9 +24,9 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 - 📫 How to reach me **jaymarkmunda26@gmail.com**
 
-x
+<br />
 
-### Languages, Frameworks and Tools:
+### LANGUAGES, FRAMEWORKS, AND TOOLS
 
 <p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -44,7 +45,7 @@ x
 
 <br/>
 
-### My Github Stats
+### GITHUB STATS
   <p>
     <a href="https://github.com/JmarkMunda/github-readme-streak-stats">
         <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jmark Munda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JmarkMunda&theme=ayu-mirage&hide_border=true&stroke=0000&background=062F52&fire=00FCED"/>
@@ -61,7 +62,7 @@ x
 
 <br/>
 
-### Connect with me:
+### CONNECT WITH ME THROUGH:
 <p align="left">
 <a href = "https://www.linkedin.com/in/jay-mark-munda-18a208233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/jaymark.munda.26/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
