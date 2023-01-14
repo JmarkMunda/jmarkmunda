@@ -14,7 +14,7 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 - ⌚ I’m currently spending my time on **Learning** and **thinking about my future**
 
-- 📘 I’m currently learning **MERN Stack**
+- 📘 I’m currently learning **React Native for Cross Platform Mobile Development**
 
 - 🥇 Specialized with **HTML**, **CSS** and **React JS**
 
