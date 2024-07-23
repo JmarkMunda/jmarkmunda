@@ -10,13 +10,13 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 
 ### ABOUT ME
 
-- 👨‍🎓 I'm Graduating 4th year **BSIT student**
+- 👨‍🎓 I have professional experience in **Web Development** and **Mobile App Development**
 
 - ⌚ I’m currently spending my time on **Learning** and **thinking about my future**
 
-- 📘 I’m currently learning **Next JS 13** to build full stack application
+- 📘 I’m currently learning **Node JS, Express, PostgreSQL** to build full stack application
 
-- 🥇 Specialized with **HTML**, **CSS** and **React JS**
+- 🥇 Specialized with **React JS** and **React Native**
 
 - 👯 I’m looking for **Job Opportunities**
 
